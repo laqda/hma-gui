@@ -6,10 +6,18 @@
 
 Unofficial [electron](http://electron.atom.io/) gui based on [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate).
 
-## screenshots
+## Screenshots
+
+* Tab Connect
 
 ![alt text](screenshots/hma_gui_connect.png "Tab Connect")
+
+* Tab Servers
+
 ![alt text](screenshots/hma_gui_servers.png "Tab Servers")
+
+* Tab Settings
+
 ![alt text](screenshots/hma_gui_settings.png "Tab Settings")
 
 ## Install
