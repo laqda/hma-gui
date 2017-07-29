@@ -1,0 +1,30 @@
+.menu {
+  background-color: #FFCC00;
+  font-weight: bold;
+  color: #232c39;
+  height: 45px;
+}
+
+li {
+  margin: 5px;
+}
+
+.menu_ul {
+  display: flex;
+  padding: 10px;
+  margin: 0;
+  list-style-type: none;
+}
+
+a {
+  color: #232c39;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #E36A5A;
+}
+
+.active {
+  color: red;
+}

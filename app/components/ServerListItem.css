@@ -1,0 +1,80 @@
+.container {
+  color: #232c39;
+  width: 100%;
+  display: flex;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+span {
+  color: #232c39;
+}
+
+.flag {
+  width: 6%;
+  height: 3%;
+  margin-left: 10px;
+  margin-right: 14px;
+  margin-top: 3px;
+}
+
+.infos {
+  width: 55%;
+}
+
+.server_name {
+  font-weight: bold;
+  width: 40px;
+  padding-bottom: 10px;
+}
+
+.server_location {
+  width: 40px;
+}
+
+.div_btn {
+  padding-top: 5px;
+  font-weight: bold;
+  width: 30%;
+  float: right;
+}
+
+.default_btn {
+  color: white;
+  background-color: #a9a9a9;
+  border-radius: 2px;
+  width: 65px;
+  height: 25px;
+  border: none;
+  cursor: pointer;
+}
+
+.default_btn:hover {
+  color: white;
+  background-color: #7a7a7a;
+  border-radius: 2px;
+  width: 65px;
+  height: 25px;
+  border: none;
+}
+
+.select_btn {
+  color: white;
+  background-color: #4c5563;
+  margin-left: 5px;
+  border-radius: 2px;
+  width: 65px;
+  height: 25px;
+  border: none;
+  cursor: pointer;
+}
+
+.select_btn:hover {
+  color: white;
+  background-color: #232c39;
+  margin-left: 5px;
+  border-radius: 2px;
+  width: 65px;
+  height: 25px;
+  border: none;
+}
