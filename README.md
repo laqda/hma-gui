@@ -6,6 +6,12 @@
 
 Unofficial [electron](http://electron.atom.io/) gui based on [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate).
 
+## screenshots
+
+![alt text](screenshots/hma_gui_connect.png "Tab Connect")
+![alt text](screenshots/hma_gui_servers.png "Tab Servers")
+![alt text](screenshots/hma_gui_settings.png "Tab Settings")
+
 ## Install
 
 * **Note: requires a node version >= 6 and an npm version >= 3.**
