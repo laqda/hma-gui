@@ -1,4 +1,4 @@
-# hma_gui
+# hma_gui (not maintained)
 
 ### An Linux desktop gui for hma-vpn.sh
 
